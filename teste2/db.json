@@ -1,37 +1,36 @@
 {
-    "restaurantes": [
-      {
-        "id": 1,
-        "nome": "Restaurante Paladino",
-        "endereco": "Av. Gildo Macedo Lacerda, 300",
-        "distancia": 3,
-        "valor": 120,
-        "referencia": "Hotel Ouro Minas BH"
-      },
-      {
-        "id": 2,
-        "nome": "Restaurante Xapuri",
-        "endereco": "Rua Mandacaru, 260",
-        "distancia": 6,
-        "valor": 90,
-        "referencia": "Hotel Ouro Minas BH"
-      },
-      {
-        "id": 3,
-        "nome": "Cozinha Mineira",
-        "endereco": "Rua dos Timbiras, 1500",
-        "distancia": 10,
-        "valor": 70,
-        "referencia": "Hotel Ouro Minas BH"
-      },
-      {
-        "id": 4,
-        "nome": "Hamburgueria do Bairro",
-        "endereco": "Rua São Paulo, 800",
-        "distancia": 12,
-        "valor": 35,
-        "referencia": "Outro Hotel"
-      }
-    ]
-  }
-  
+  "restaurantes": [
+    {
+      "id": 1,
+      "nome": "Restaurante Paladino",
+      "endereco": "Av. Gildo Macedo Lacerda, 300",
+      "distancia": 3,
+      "valor": 120,
+      "referencia": "Hotel Ouro Minas BH"
+    },
+    {
+      "id": 2,
+      "nome": "Restaurante Xapuri",
+      "endereco": "Rua Mandacaru, 260",
+      "distancia": 6,
+      "valor": 90,
+      "referencia": "Hotel Ouro Minas BH"
+    },
+    {
+      "id": 3,
+      "nome": "Cozinha Mineira",
+      "endereco": "Rua dos Timbiras, 1500",
+      "distancia": 10,
+      "valor": 70,
+      "referencia": "Hotel Ouro Minas BH"
+    },
+    {
+      "id": 4,
+      "nome": "Hamburgueria do Bairro",
+      "endereco": "Rua São Paulo, 800",
+      "distancia": 12,
+      "valor": 35,
+      "referencia": "Outro Hotel"
+    }
+  ]
+}
